@@ -2,6 +2,10 @@
 
 A basic Bash script to monitor Linux server performance. Includes CPU, memory, disk usage, and top resource-consuming processes.
 
+## 🚀 Project URL
+
+[https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
+
 ## 🔧 Features
 
 - Total CPU usage
@@ -10,7 +14,7 @@ A basic Bash script to monitor Linux server performance. Includes CPU, memory, d
 - Top 5 processes by CPU usage
 - Top 5 processes by memory usage
 
-## 🚀 How to Run
+## 💻 How to Run
 
 ```bash
 chmod +x server-stats.sh
